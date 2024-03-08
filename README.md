@@ -13,9 +13,13 @@
     - Etwas schwierigere (Zusammengesetzte) Elementarfunktionen
     - Exponentialfolge
     - Komplexe harmonische Schwingung
-    - Aufgaben mit Elementarfunktionen [Brainiyoo Aufgaben mit Lösungen hier](https://www.brainyoo.de/Brainyoo2Web/importLesson/Z5a2fwjQWwfmy6fQKmIe)
+    - Aufgaben mit Elementarfunktionen (Klausurvorbereitung)
 <br>
 <br>
+
+## Übungsaufgaben mit Lösungen (Klausurvorbereitung)
+  - StudySmart: [hier](https://app.studysmarter.de/studyset/20746856?ref=ZWt0pFXLwBiTpoEdM5zrEZ2oHPyXVj44)
+  - Brainyoo: [hier](https://www.brainyoo.de/Brainyoo2Web/importLesson/Z5a2fwjQWwfmy6fQKmIe)
 
 ## Tutorials/Guides
   - How to Jupiter Notebook in [Visual Studio Code](https://code.visualstudio.com/) zum Tutorial: [soon](https://www.hs-emden-leer.de/)
