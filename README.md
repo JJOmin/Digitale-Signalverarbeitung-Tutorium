@@ -13,12 +13,13 @@
     - Etwas schwierigere (Zusammengesetzte) Elementarfunktionen
     - Exponentialfolge
     - Komplexe harmonische Schwingung
-    - Aufgaben mit Elementarfunktionen (Klausurvorbereitung + Python Script zum darstellen der Elementarfunktionen) <img width="419" alt="Bildschirmfoto 2024-03-08 um 08 31 23" src="https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/assets/104137706/921fb04b-57cc-4717-85ba-ba6d56ae6f17">
+    - Aufgaben mit Elementarfunktionen (Klausurvorbereitung)
 <br>
 <br>
 
 ## Tutorials/Guides
-  - How to Annaconda Nutzen [soon](https://www.hs-emden-leer.de/)
+  - How to Jupiter Notebook in [Visual Studio Code]([url](https://code.visualstudio.com/)) [soon](https://www.hs-emden-leer.de/)
+  - 
 
 
 
