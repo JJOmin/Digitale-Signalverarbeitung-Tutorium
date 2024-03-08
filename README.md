@@ -13,7 +13,7 @@
     - Etwas schwierigere (Zusammengesetzte) Elementarfunktionen
     - Exponentialfolge
     - Komplexe harmonische Schwingung
-    - Aufgaben mit Elementarfunktionen [hier](https://www.brainyoo.de/Brainyoo2Web/importLesson/Z5a2fwjQWwfmy6fQKmIe)
+    - Aufgaben mit Elementarfunktionen [Brainiyoo Aufgaben mit Lösungen hier](https://www.brainyoo.de/Brainyoo2Web/importLesson/Z5a2fwjQWwfmy6fQKmIe)
 <br>
 <br>
 
