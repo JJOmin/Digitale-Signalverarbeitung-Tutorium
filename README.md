@@ -14,15 +14,18 @@
     - Exponentialfolge
     - Komplexe harmonische Schwingung
     - Aufgaben mit Elementarfunktionen (Klausurvorbereitung + Python Script zum darstellen der Elementarfunktionen) <img width="419" alt="Bildschirmfoto 2024-03-08 um 08 31 23" src="https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/assets/104137706/921fb04b-57cc-4717-85ba-ba6d56ae6f17">
-   
-  
-   
 <br>
 <br>
+
+## Tutorials/Guides
+  - How to Annaconda Nutzen [soon](https://www.hs-emden-leer.de/)
 
 
 
 ## Linksammlung
+  - Wichtige Downloads:
+    - Anaconda Download [hier](https://www.anaconda.com/download)
+ 
   - Grafischen Faltung/ Convolution
     - Grafischen Faltung mit [lntwww.de](https://www.lntwww.de/lnt_applets/convolution/)
     - Grafischen Faltung mit [phiresky](https://phiresky.github.io/convolution-demo/) 
