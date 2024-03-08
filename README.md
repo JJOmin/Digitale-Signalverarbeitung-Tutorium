@@ -12,7 +12,6 @@
     - Einfache Elementarfunktionen
     - Etwas schwierigere Elementarfunktionen
     - Aufgaben mit Elementarfunktionen (Klausurvorbereitung + Python Script zum darstellen der Elementarfunktionen)
-   
   - 
    
 <br>
