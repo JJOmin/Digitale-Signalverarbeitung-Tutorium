@@ -18,7 +18,7 @@
 <br>
 
 ## Übungsaufgaben mit Lösungen (Klausurvorbereitung)
-  - StudySmart: [hier](https://app.studysmarter.de/studyset/20746856?ref=ZWt0pFXLwBiTpoEdM5zrEZ2oHPyXVj44)
+  - StudySmarter: [hier](https://app.studysmarter.de/studyset/20746856?ref=ZWt0pFXLwBiTpoEdM5zrEZ2oHPyXVj44)
   - Brainyoo: [hier](https://www.brainyoo.de/Brainyoo2Web/importLesson/Z5a2fwjQWwfmy6fQKmIe)
 
 ## Tutorials/Guides
