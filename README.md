@@ -18,8 +18,7 @@
 <br>
 
 ## Tutorials/Guides
-  - How to Jupiter Notebook in [Visual Studio Code]([url](https://code.visualstudio.com/)) [soon](https://www.hs-emden-leer.de/)
-  - 
+  - How to Jupiter Notebook in [Visual Studio Code](https://code.visualstudio.com/) zum Tutorial: [soon](https://www.hs-emden-leer.de/)
 
 
 
