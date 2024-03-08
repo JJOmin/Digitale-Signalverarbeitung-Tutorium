@@ -3,7 +3,7 @@
   Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
 
 ## Ziel:
-  Nach diesem Tutorium sollte jede Person die mitgemacht hat, die meisten Themen aus der Vorlesung verstehen, in Python zu Programmieren und die Klausur bestehen.
+  Nach diesem Tutorium sollte jede Person, die mitgemacht hat, die meisten Themen aus der Vorlesung verstehen, in Python zu programmieren und die Klausur bestehen.
 <br>
 <br>
 
