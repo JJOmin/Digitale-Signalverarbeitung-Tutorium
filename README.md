@@ -27,5 +27,6 @@
     - Anaconda Download [hier](https://www.anaconda.com/download)
  
   - Grafischen Faltung/ Convolution
+    - "Technick verstehende Medien Menschen" Discord [hier](https://discord.gg/trstB7MdMc) (da sind wir eher online)
     - Grafischen Faltung mit [lntwww.de](https://www.lntwww.de/lnt_applets/convolution/)
     - Grafischen Faltung mit [phiresky](https://phiresky.github.io/convolution-demo/) 
