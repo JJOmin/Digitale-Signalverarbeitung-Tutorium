@@ -3,11 +3,13 @@
   - Dowbnload von Annaconda [hier](https://www.anaconda.com/download),
   - Visual Studio Code [hier](https://code.visualstudio.com/Download)
   - Jupiter erweiterung für VS Code [hier](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-
+<br>
+<br>
 ### 2. In VS Code Jupiter Notebook erstellen
   - Neue Datei erstellen und dann "IPYNB" auswählen
 <img width="600" alt="Bildschirmfoto 2024-03-11 um 17 55 38" src="https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/assets/104137706/f374b7b0-b700-4230-b6f9-3548abc09f9f">
-
+<br>
+<br>
 ### 3. Python Kernel Auswählen
   - Hier nun auf "Kernel Auswählen"
 
