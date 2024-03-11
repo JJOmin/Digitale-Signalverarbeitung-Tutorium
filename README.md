@@ -31,6 +31,7 @@
 
   - Wichtige Downloads:
     - Anaconda Download [hier](https://www.anaconda.com/download)
+    - Jupiter Notebook in VS Code [hier](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
  
   - Grafischen Faltung/ Convolution
     - "Technick verstehende Medien Menschen" Discord [hier](https://discord.gg/trstB7MdMc) (da sind wir eher online)
