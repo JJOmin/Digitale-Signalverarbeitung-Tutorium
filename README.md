@@ -21,6 +21,7 @@
 ## Themen fürs nächste mal
    - numpy; einfache berechnungen und so
    - matplotlib; Plotten von signalen
+   - Zeichnen von Elementaren Signalen; Sinus, Cos, Dirac, Sprung, Rechteck, Fenster evtl.
      
 <br>
 <br>
