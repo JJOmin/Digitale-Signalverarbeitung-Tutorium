@@ -15,13 +15,15 @@
     - Komplexe harmonische Schwingung
     - Aufgaben mit Elementarfunktionen (Klausurvorbereitung)
   - ...
+
 <br>
 <br>
 
 ## Themen fürs nächste mal
-   - numpy; einfache berechnungen und so
+   - numpy; einfache berechnungen und so, 
    - matplotlib; Plotten von signalen
    - Zeichnen von Elementaren Signalen; Sinus, Cos, Dirac, Sprung, Rechteck, Fenster evtl.
+     - verschieben, strecken, stauchen
      
 <br>
 <br>
