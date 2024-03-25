@@ -14,7 +14,7 @@
     - Exponentialfolge
     - Komplexe harmonische Schwingung
     - Aufgaben mit Elementarfunktionen (Klausurvorbereitung)
-  - ...
+  - Die komplexe Exponentialfolge
 
 <br>
 <br>
