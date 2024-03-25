@@ -19,8 +19,9 @@
 <br>
 <br>
 
-## Themen fürs nächste mal
+## Aufgabensammlung
    - Aufgabe 01 - Erstellen von Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/31d6384a24b44b88160ef0d4042628e456fbea34/Python%20Code/Aufgaben/Aufgabe01.md)
+   - Aufgabe 02 - Grundlegende Operationen mit Numpy Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/285ae719f6e04aba5cc13f696ee166b685887557/Python%20Code/Aufgaben/Aufgabe02.md)
      
 <br>
 <br>
