@@ -7,6 +7,6 @@
   
 - Multipliziere zwei Arrays der gleichen Dimension elementweise.
   
-- Berechne die Summe aller Elemente in einem Array.
+- Wie kann die <i>Summe aller Elemente</i> in einem Array berechnet werden?
   
-- Berechne den Durchschnitt aller Elemente in einem Array.
+- Wie kann der <i>Durchschnitt</i> aller Elemente in einem Array berechnet werden?
