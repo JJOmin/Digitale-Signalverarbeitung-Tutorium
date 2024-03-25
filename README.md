@@ -20,10 +20,7 @@
 <br>
 
 ## Themen fürs nächste mal
-   - numpy; einfache berechnungen und so, 
-   - matplotlib; Plotten von signalen
-   - Zeichnen von Elementaren Signalen; Sinus, Cos, Dirac, Sprung, Rechteck, Fenster evtl.
-     - verschieben, strecken, stauchen
+   - Aufgabe 01 - Erstellen von Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/31d6384a24b44b88160ef0d4042628e456fbea34/Python%20Code/Aufgaben/Aufgabe01.md)
      
 <br>
 <br>
