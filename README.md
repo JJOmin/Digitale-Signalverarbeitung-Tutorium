@@ -3,7 +3,7 @@
   Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
 
 ## Ziel:
-  Nach diesem Tutorium sollte jede Person, die mitgemacht hat, die meisten Themen aus der Vorlesung verstehen, in Python zu programmieren und die Klausur bestehen.
+  In diesem Tutorium werden die Themen aus der Vorlesung des Moduls Digitale Signalverarbeitung wiederholt und mit Aufgaben aufbereitet.
 <br>
 <br>
 
