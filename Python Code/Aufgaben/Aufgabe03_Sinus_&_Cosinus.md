@@ -12,4 +12,4 @@
 
 6. Plotte einen Cosinus, der um 2 Einheiten nach unten verschoben ist. Die Funktion soll eine Länge von 12 haben, und der dargestellte Bereich soll von 0 bis 25 gehen.
 
-6. Plotte einen Sinus, der um 3 Einheiten gestreckt ist. Die Funktion soll eine Länge von 6 haben, und der dargestellte Bereich soll von 0 bis 18 gehen.
+7. Plotte einen Sinus, der um 3 Einheiten gestreckt ist. Die Funktion soll eine Länge von 6 haben, und der dargestellte Bereich soll von 0 bis 18 gehen.
