@@ -10,5 +10,3 @@
 - Berechne die Summe aller Elemente in einem Array.
   
 - Berechne den Durchschnitt aller Elemente in einem Array.
-
-
