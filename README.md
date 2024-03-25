@@ -30,6 +30,7 @@
 
 
 ## Tutorials/Guides
+  - Numpy [hier](https://numpy.org/doc/stable/user/absolute_beginners.html)  
   - How to Jupiter Notebook in [Visual Studio Code](https://code.visualstudio.com/) zum Tutorial: [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/c162292fdd6e715bc71a1aece364f5560dfbf4cd/Tutorials%3AGuides/NotebookInVS.md)
 <br>
 <br>
