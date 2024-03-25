@@ -1,4 +1,4 @@
-# 2. Grundlegende Operationen:
+# 2. Grundlegende Operationen mit Arrays:
 - Was bedeutet die Ausgabe von "a.ndim"?
 
 - Was bedeutet die Ausgabe von "a.size"?
