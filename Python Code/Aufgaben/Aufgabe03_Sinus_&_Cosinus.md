@@ -8,6 +8,6 @@
 
 4. Plotte einen Sinus und einen Cosinus in einem Diagramm. Beide Funktionen sollen eine Länge von 8 haben, und der dargestellte Bereich soll von 0 bis 17 gehen.
 
-5. Plotte einen Sinus, der um 3 Einheiten nach oben verschoben ist. Die Funktion soll eine Länge von 10 haben, und der dargestellte Bereich soll von 0 bis 20 gehen.
+5. Plotte einen Sinus, der um 3 Einheiten nach links verschoben ist. Die Funktion soll eine Länge von 10 haben, und der dargestellte Bereich soll von 0 bis 20 gehen.
 
 6. Plotte einen Cosinus, der um 2 Einheiten nach unten verschoben ist. Die Funktion soll eine Länge von 12 haben, und der dargestellte Bereich soll von 0 bis 25 gehen.
