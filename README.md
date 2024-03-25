@@ -8,13 +8,20 @@
 <br>
 
 ## Themensammlung
+  -Einführung Numpy
+    - Erstellen von Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/31d6384a24b44b88160ef0d4042628e456fbea34/Python%20Code/Aufgaben/Aufgabe01.md)
+    - Grundlegende operationen mit NumPy Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/285ae719f6e04aba5cc13f696ee166b685887557/Python%20Code/Aufgaben/Aufgabe02.md)
+    
   - Elementarfunktionen
+      - Sprung
+      - Impuls
+      - Sinus & Cosinus  
     - Einfache Elementarfunktionen
     - Etwas schwierigere (Zusammengesetzte) Elementarfunktionen
     - Exponentialfolge
     - Komplexe harmonische Schwingung
     - Aufgaben mit Elementarfunktionen (Klausurvorbereitung)
-  - ...
+  - 
 
 <br>
 <br>
