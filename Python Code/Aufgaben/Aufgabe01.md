@@ -16,5 +16,6 @@
 
 ## Hinweise:
 - NumPy for beginners [hier](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- np.zeros [hier](https://numpy.org/doc/stable/reference/generated/numpy.zeros.html)
 
 
