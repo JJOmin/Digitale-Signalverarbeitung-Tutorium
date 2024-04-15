@@ -7,6 +7,16 @@
 <br>
 <br>
 
+## Aufgabensammlung
+   - [Aufgabe 01 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe01.md)- Erstellen von Arrays: Lösun
+   - [Aufgabe 02 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe02.md)- Grundlegende Operationen mit Numpy Arrays
+   - [Aufgabe 03 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe03_Sinus_%26_Cosinus.md)- Sinus und Cosinus
+   - [Aufgabe 04 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe04.md)- Elementarsignale: Sprung & Impuls Zeichnen
+   - [Aufgabe 05 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe05.md)- Vektoralgebra Aufgaben zur Wiederholung
+     
+<br>
+<br>
+
 ## Themensammlung
   -Einführung Numpy
     - Erstellen von Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/31d6384a24b44b88160ef0d4042628e456fbea34/Python%20Code/Aufgaben/Aufgabe01.md)
@@ -24,14 +34,6 @@
 
 <br>
 <br>
-
-## Aufgabensammlung
-   - Aufgabe 01 - Erstellen von Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/31d6384a24b44b88160ef0d4042628e456fbea34/Python%20Code/Aufgaben/Aufgabe01.md)
-   - Aufgabe 02 - Grundlegende Operationen mit Numpy Arrays [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/285ae719f6e04aba5cc13f696ee166b685887557/Python%20Code/Aufgaben/Aufgabe02.md)
-     
-<br>
-<br>
-
 
 ## Tutorials/Guides
   - Numpy [hier](https://numpy.org/doc/stable/user/absolute_beginners.html)  
