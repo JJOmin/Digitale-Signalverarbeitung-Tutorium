@@ -10,7 +10,7 @@ Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
 - [Aufgabe 02 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe02.md)\- Grundlegende Operationen mit Numpy Arrays \[Bearbeitete Version [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/L%C3%B6sungen/Aufgabe02bearbeitung.ipynb)\]
 - [Aufgabe 03 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe03_Sinus_%26_Cosinus.md)\- Sinus und Cosinus \[Bearbeitete Version [soon]()\]
 - [Aufgabe 04 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe04.md)\- Elementarsignale: Sprung & Impuls Zeichnen \[Bearbeitete Version [soon]()\]
-- [Aufgabe 05 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe05.md)\- Vektoralgebra Aufgaben zur Wiederholung \[Bearbeitete Version [soon]()\]
+- [Aufgabe 05 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe05.md)\- Vektoralgebra Aufgaben zur Wiederholung \[Bearbeitete Version [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/3487b1f9e4a8fbca1cfdbb6bdc68dd44b8b58f2f/AufgabenTutorium/L%C3%B6sungen/Aufgabe05%20L%C3%B6sung.md)\]
 
 ## Themensammlung
 
