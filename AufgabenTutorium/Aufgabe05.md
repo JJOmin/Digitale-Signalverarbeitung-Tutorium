@@ -44,9 +44,7 @@
    Nenne eine 3. Möglichkeit das innere Produkt zu Berechnen.
 
    ```python
-   np.inner([0,1,3], [5,8,11]) # Ausgabe  41
-   np.dot([0,1,3], [5,8,11]) # Ausgabe  41
-   np.array([0,1,3]) @  np.array([5,8,11]) # Ausgabe  41
+   
    ```
 6. **Kreuzprodukt**:
    Das Kreuzprodukt ist eine Operation, die für Vektoren im dreidimensionalen Raum definiert ist und einen Vektor ergibt, der senkrecht zu den Ausgangsvektoren steht.
