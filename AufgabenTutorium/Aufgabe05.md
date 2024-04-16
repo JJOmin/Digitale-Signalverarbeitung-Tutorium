@@ -32,7 +32,8 @@
    Nenne 2 Möglichkeiten ein **Skalarprodukt** in Python zu berechnen.
 
    ```python
-   
+   matrix1 = np.array([0, 1, 3])
+   matrix2 = np.array([5, 8, 11])
    ```
 4. **Äußeres Produkt**: Beschreibe kurz was das **Äußeres Produkt** ist und wie es berechnet wird. Gerne an einem Beispiel :D
 
