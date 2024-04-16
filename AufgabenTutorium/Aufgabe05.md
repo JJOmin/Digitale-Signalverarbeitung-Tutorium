@@ -22,7 +22,7 @@
    import numpy as np
    
    matrix1 = np.array([[0, 1, 3]])
-   matrix2 = np.array([5, 8, 11, 4]).reshape("<1>","<2>")
+   matrix2 = np.array([5, 8, 11]).reshape("<1>","<2>")
    
    print(matrix1 "<3>" matrix2) # Ausgabe: [[41]]
    ```
