@@ -10,7 +10,7 @@
    array1 = np.array([0, 1, 3])
    array2 = np.array([5, 8, 11, 4])
    
-   elementwise_product = #array1 "<1>" array2["<2>"] 
+   elementwise_product = array1 "<1>" array2["<2>"] 
    print(elementwise_product)  # Ausgabe: [0, 8, 33]
    ```
 2. **Matrixmultiplikation**:
