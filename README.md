@@ -12,6 +12,11 @@ Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
 - [Aufgabe 04 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe04.md)\- Elementarsignale: Sprung & Impuls Zeichnen \[Bearbeitete Version [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/de223502ddaa46b73881c55f39f9f80a14160195/AufgabenTutorium/L%C3%B6sungen/Lo%CC%88sungen04.md)\]
 - [Aufgabe 05 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/a619aa83f555c275a6cea1df35a6f29f1dc6f08a/AufgabenTutorium/Aufgabe05.md)\- Vektoralgebra Aufgaben zur Wiederholung \[Bearbeitete Version [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/3487b1f9e4a8fbca1cfdbb6bdc68dd44b8b58f2f/AufgabenTutorium/L%C3%B6sungen/Aufgabe05%20L%C3%B6sung.md)\]
 - [Aufgabe 06 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/eea890fa7086477663e7494082e73e28c6c8ab35/AufgabenTutorium/Aufgabe06%20-%20Elementarsignale%20Signalsynthese.ipynb)\- Elementarsignale Signalsynthese Sprung & Impuls  \[Bearbeitete Version [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/58881dc7e61df1aa69e151e0f71179fb7a3cb653/AufgabenTutorium/L%C3%B6sungen/Aufgabe06%20-%20Elementarsignale%20Signalsynthese%20Lo%CC%88sung.ipynb)\]
+  <br>
+  Später:
+    <br>
+- [Aufgabe 07 ]()\- Faltung Rechnerisch \[Bearbeitete Version [soon]()\]
+- [Aufgabe 08 ]()\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
   
 ## Themensammlung
 
