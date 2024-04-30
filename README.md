@@ -14,10 +14,10 @@ Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
 - [Aufgabe 06 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/eea890fa7086477663e7494082e73e28c6c8ab35/AufgabenTutorium/Aufgabe06%20-%20Elementarsignale%20Signalsynthese.ipynb)\- Elementarsignale Signalsynthese Sprung & Impuls  \[Bearbeitete Version [hier](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/58881dc7e61df1aa69e151e0f71179fb7a3cb653/AufgabenTutorium/L%C3%B6sungen/Aufgabe06%20-%20Elementarsignale%20Signalsynthese%20Lo%CC%88sung.ipynb)\]
 - [Aufgabe 07 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/fdc415735d0318b32adc9d74eafdae2731b71e53/AufgabenTutorium/Aufgabe07%20-%20DFT.ipynb)\- DFT Berechnen \[Bearbeitete Version [soon]()\]
    <br>
-  Später:
+  Für später:
     <br>
-- [Aufgabe 08 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/b19bbd33964ba7130a31567ed45453fd9bc38e6e/AufgabenTutorium/Aufgabe08%20-%20Fourie.ipynb)\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
-- [Aufgabe 09 ]()\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
+- [Aufgabe 08 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/b19bbd33964ba7130a31567ed45453fd9bc38e6e/AufgabenTutorium/Aufgabe08%20-%20Fourie.ipynb)\- Fourier \[Bearbeitete Version [soon]()\]
+- [Aufgabe 09 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/171b1e3feddabf6ad7f4c9a232be6dbf705eb29c/AufgabenTutorium/Aufgabe09%20-%20Faltung.ipynb)\- Faltung \[Bearbeitete Version [soon]()\]
   
 ## Themensammlung
 
