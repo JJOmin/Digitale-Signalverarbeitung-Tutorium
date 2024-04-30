@@ -16,7 +16,8 @@ Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
    <br>
   Später:
     <br>
-- [Aufgabe 08 ]()\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
+- [Aufgabe 08 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/b19bbd33964ba7130a31567ed45453fd9bc38e6e/AufgabenTutorium/Aufgabe08%20-%20Fourie.ipynb)\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
+- [Aufgabe 09 ]()\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
   
 ## Themensammlung
 
