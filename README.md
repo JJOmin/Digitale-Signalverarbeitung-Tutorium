@@ -15,7 +15,7 @@ Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
   <br>
   Später:
     <br>
-- [Aufgabe 07 ]()\- Faltung Rechnerisch \[Bearbeitete Version [soon]()\]
+- [Aufgabe 07 ](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/fdc415735d0318b32adc9d74eafdae2731b71e53/AufgabenTutorium/Aufgabe07%20-%20DFT.ipynb)\- DFT Berechnen \[Bearbeitete Version [soon]()\]
 - [Aufgabe 08 ]()\- Fourier Berechnen \[Bearbeitete Version [soon]()\]
   
 ## Themensammlung
