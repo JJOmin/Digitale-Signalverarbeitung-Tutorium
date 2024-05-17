@@ -21,7 +21,7 @@ Hier wird nach und nach alles gesammelt was wir im Tutorium machen. :D
     <br>
 
 ## Extras:
-- [Bilderfaltung](https://github.com/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/85e71a76ec4e6b101962eb1d70eb33b5e25aa22e/Extras/BilderFalten.ipynb) - Faltung mit bildern halt :DD
+- [Bilderfaltung](https://github.dev/JJOmin/Digitale-Signalverarbeitung-Tutorium/blob/85e71a76ec4e6b101962eb1d70eb33b5e25aa22e/Extras/BilderFalten.ipynb) - Faltung mit bildern halt :DD
 
 
   
